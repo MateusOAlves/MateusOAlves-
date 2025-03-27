@@ -19,4 +19,4 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, por mudar a vida das pessoas através da programação.
